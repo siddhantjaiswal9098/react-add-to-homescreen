@@ -1,7 +1,13 @@
 {
+<<<<<<< Updated upstream
   "name": "react-add-to-homescreen",
   "version": "1.0.1",
   "description": "",
+=======
+  "name": "add-to-homescreen-react-js",
+  "version": "1.0.0",
+  "description": "[![CircleCI](https://circleci.com/gh/kkoscielniak/react-add-to-homescreen/tree/master.svg?style=svg)](https://circleci.com/gh/kkoscielniak/react-add-to-homescreen/tree/master) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Coverage Status](https://coveralls.io/repos/github/kkoscielniak/react-add-to-homescreen/badge.svg?branch=master)](https://coveralls.io/github/kkoscielniak/react-add-to-homescreen?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://github.com/prettier/prettier)",
+>>>>>>> Stashed changes
   "main": "build/index.js",
   "scripts": {
     "build": "webpack",
